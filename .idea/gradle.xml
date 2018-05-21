@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chapter10" />
             <option value="$PROJECT_DIR$/Chapter4" />
             <option value="$PROJECT_DIR$/Chapter5" />
             <option value="$PROJECT_DIR$/Chapter6" />
