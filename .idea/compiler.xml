@@ -6,6 +6,12 @@
       <module name="Chapter4_test" target="1.8" />
       <module name="Chapter5_main" target="1.8" />
       <module name="Chapter5_test" target="1.8" />
+      <module name="Chapter6_main" target="1.8" />
+      <module name="Chapter6_test" target="1.8" />
+      <module name="Chapter7_main" target="1.8" />
+      <module name="Chapter7_test" target="1.8" />
+      <module name="Chapter9_main" target="1.8" />
+      <module name="Chapter9_test" target="1.8" />
       <module name="SpringBootOkan_main" target="1.8" />
       <module name="SpringBootOkan_test" target="1.8" />
     </bytecodeTargetLevel>
