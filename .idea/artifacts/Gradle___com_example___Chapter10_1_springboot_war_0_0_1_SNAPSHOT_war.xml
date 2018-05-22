@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.example : Chapter10-1_springboot-war-0.0.1-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/Chapter10-1/springboot-war/build/libs/Chapter10-1</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="Chapter10-1/springboot-war-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.example : Chapter10-1_springboot-war-0.0.1-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

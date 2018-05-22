@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ow2.asm:asm-tree:6.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.1.1/19fdc358e7bd3986b9867de508ce6cefa693dda6/asm-tree-6.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.1.1/f858620f9f3ce6fcc1e75b90f900a9aa25942a3e/asm-tree-6.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
