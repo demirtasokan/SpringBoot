@@ -1,0 +1,31 @@
+    <!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml"
+          layout:decorator="layout">
+
+          <head>
+            <title>File Upload</title>
+        </head>
+        <body>
+        <div layout:fragment="content">
+        <p>Hosgeldiniz.</p>
+
+        <hr>
+
+        <h2>Dosya Yükleme</h2>
+
+        <form action="uploadMyFile" th:action="@{/uploadMyFile}" method="post" enctype="multipart/form-data">
+        <input type="file" name="myFile"><input>
+        <input type="submit">
+
+        </form>
+
+        <div th:if="${msg!=null}">
+        <span th:text="${msg}">msg</span>
+
+        </div>
+
+
+        </div>
+        </body>
+
+    </html>

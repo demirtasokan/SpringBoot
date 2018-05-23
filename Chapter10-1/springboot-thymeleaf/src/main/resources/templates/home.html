@@ -1,0 +1,17 @@
+    <!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml"
+          layout:decorator="layout">
+
+          <head>
+            <title>Home</title>
+        </head>
+        <body>
+            <div layout:fragment="content" >
+            <p>welcome</p>
+            <p th:text="${message}">Message</p>
+            <p><a href="registiration"></a>Registiration</p>
+            <p><a href="fileUpload"></a>FileUpload</p>
+            </div>
+        </body>
+
+    </html>
