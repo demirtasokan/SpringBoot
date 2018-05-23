@@ -2,6 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Chapter10-1_jetty-undertow-customization_main" target="1.8" />
+      <module name="Chapter10-1_jetty-undertow-customization_test" target="1.8" />
+      <module name="Chapter10-1_jetty-undertow_main" target="1.8" />
+      <module name="Chapter10-1_jetty-undertow_test" target="1.8" />
+      <module name="Chapter10-1_springboot-thymeleaf_main" target="1.8" />
+      <module name="Chapter10-1_springboot-thymeleaf_test" target="1.8" />
+      <module name="Chapter10-1_springboot-war_main" target="1.8" />
+      <module name="Chapter10-1_springboot-war_test" target="1.8" />
       <module name="Chapter10_main" target="1.8" />
       <module name="Chapter10_test" target="1.8" />
       <module name="Chapter4_main" target="1.8" />

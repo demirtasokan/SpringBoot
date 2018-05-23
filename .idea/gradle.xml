@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Chapter10" />
+            <option value="$PROJECT_DIR$/Chapter10-1/jetty-undertow" />
+            <option value="$PROJECT_DIR$/Chapter10-1/jetty-undertow-customization" />
+            <option value="$PROJECT_DIR$/Chapter10-1/springboot-thymeleaf" />
+            <option value="$PROJECT_DIR$/Chapter10-1/springboot-war" />
             <option value="$PROJECT_DIR$/Chapter4" />
             <option value="$PROJECT_DIR$/Chapter5" />
             <option value="$PROJECT_DIR$/Chapter6" />

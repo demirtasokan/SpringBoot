@@ -2,8 +2,11 @@
   <library name="Gradle: org.springframework.boot:spring-boot-starter-jetty:2.0.2.RELEASE">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/Could not resolve org.springframework.boot:spring-boot-starter-jetty:2.0.2.RELEASE." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jetty/2.0.2.RELEASE/33aef7a1b3d8a57722d64aef20f54b142a97a9cb/spring-boot-starter-jetty-2.0.2.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jetty/2.0.2.RELEASE/84d280fe14014aad64a9c6ff091da140e3fbb6e0/spring-boot-starter-jetty-2.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
